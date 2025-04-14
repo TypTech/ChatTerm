@@ -56,7 +56,7 @@ A modern, secure web-based chat application that combines the flexibility of cas
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/chatterm.git
+git clone https://github.com/TypTech/chatterm.git
 cd chatterm
 ```
 
